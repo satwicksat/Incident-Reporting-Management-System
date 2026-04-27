@@ -3,10 +3,15 @@ This project is a Node.js + Express backend application designed to handle incid
 
 🔧 Tech Stack
 -> Node.js
+
 -> Express.js
+
 -> MongoDB (Mongoose)
+
 -> Socket.IO (for real-time updates)
+
 -> dotenv (environment configuration)
+
 -> CORS
 
 
