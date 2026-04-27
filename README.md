@@ -15,13 +15,24 @@ This project is a Node.js + Express backend application designed to handle incid
 -> CORS
 
 
+
+
 ✨ Features
+
 📌 Create, read, update, and delete incident reports
+
 🔐 User authentication (based on controllers & models)
+
 ⚡ Real-time updates using WebSockets (Socket.IO)
+
 🗂 Structured MVC architecture (Models, Controllers, Middleware)
+
 🛡 Centralized error handling
+
 🌐 RESTful API design
+
+
+
 
 
 Project Structure
@@ -35,14 +46,27 @@ backend/
 │── .env             # Environment variables
 
 
+
+
 🎯 Use Cases
+
 Incident tracking systems
+
 Complaint management platforms
+
 Real-time monitoring dashboards
+
 Internal organizational tools
 
+
+
+
 🚀 Future Improvements
+
 Role-based authentication & authorization
+
 Frontend integration (React/Angular)
+
 Notifications system
+
 Analytics dashboard
