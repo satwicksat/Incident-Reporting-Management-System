@@ -1,0 +1,35 @@
+
+Project Structure
+backend/
+│── config/          # Database connection
+│── controllers/     # Business logic
+│── middleware/      # Error handling & auth middleware
+│── models/          # Mongoose schemas
+│── routes/          # API routes
+│── server.js        # Entry point
+│── .env             # Environment variables
+
+
+
+⚙️ Setup Instructions
+
+Clone the repository:
+git clone <your-repo-link>
+cd project-folder/backend
+
+
+Install dependencies:
+npm install
+
+
+Create a .env file:
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+
+
+Run the server:
+npm run dev
+
+
+API Base URL
+http://localhost:5000/api/incidents
