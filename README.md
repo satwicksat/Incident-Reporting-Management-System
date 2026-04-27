@@ -35,21 +35,6 @@ This project is a Node.js + Express backend application designed to handle incid
 
 
 
-Project Structure
-backend/
-│── config/          # Database connection
-│── controllers/     # Business logic
-│── middleware/      # Error handling & auth middleware
-│── models/          # Mongoose schemas
-│── routes/          # API routes
-│── server.js        # Entry point
-│── .env             # Environment variables
-
-
-
-
-
-
 🎯 Use Cases
 
 Incident tracking systems
